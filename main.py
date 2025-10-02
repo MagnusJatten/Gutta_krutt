@@ -73,5 +73,6 @@ def main():
     #-----Printer skjærkraftverdier ved endene for alle elementer
     # print("Skjærkraftverdier for tegning av Q-diagram (for hånd):")
     # print(Qval)
+    print('hello world')
 
 main()
